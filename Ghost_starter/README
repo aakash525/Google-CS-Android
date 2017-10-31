@@ -1,6 +1,8 @@
 This is the starter code for the Ghost workshop. 
 This workshop is part of the Applied CS with Android course:
 
+This a word based game in which 2 players compete with each other to not complete a word.
+
 http://g.co/cswithandroid
 
 Check the website for detailed instructions on how to implement this activity.
